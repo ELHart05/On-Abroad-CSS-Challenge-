@@ -66,6 +66,13 @@ body {
     margin-left: 600px;
 }
 
+@keyframes rotate {
+    100% {
+        transform: rotate(360deg);
+    }
+
+}
+
 @keyframes moving {
     100% {
         transform: translateX(-2000px)
