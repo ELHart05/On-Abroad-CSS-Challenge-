@@ -4,6 +4,6 @@ Just a simple Animated Bus moving along an infinity road where trees also moving
 
 ALL RIGHT RESERVED FOR THE IDEA, IMAGES'S OWNER.
 
-NOTE : THE WEBSITE IS HOSTED ON NETLIFY YOU CAN CHECK IT OUT : https://onabroad.netlify.app
+NOTE : THE WEBSITE IS HOSTED ON NETLIFY YOU CAN CHECK IT OUT : https://onthewayy.netlify.app/.
 
 The repository's content, privacy can be changed anytime !
