@@ -1,6 +1,6 @@
-# On Abroad CSS Challenge
+# On The Way CSS Challenge
 
-Just a simple Animated Bus moving along an infinity road where trees also moving it got a hover features that makes the bus move toward a little bit and that's all using HTML and CSS.
+Just a simple Animated Bus moving along an infinity road where trees also moving it got a hover features that makes it moves toward a little bit and that's all using HTML and CSS ONLY.
 
 ALL RIGHT RESERVED FOR THE IDEA, IMAGES'S OWNER.
 
