@@ -91,6 +91,8 @@ i:hover {
     color: violet;
 }
 
+::selection{background-color: transparent;}
+
 @keyframes rotate {
     100% {
         transform: rotate(360deg);
