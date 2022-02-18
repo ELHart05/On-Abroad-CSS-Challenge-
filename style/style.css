@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@100;200;300;400;500;600;700;800;900&display=swap');
+
 * {
     margin: 0;
     padding: 0;
@@ -64,6 +66,29 @@ body {
 
 .car:hover {
     margin-left: 600px;
+}
+
+p {
+    text-align: center;
+    color: white;
+    position: absolute;
+    margin-bottom: 38px;
+    font-weight: 500;
+}
+
+i {
+    position: absolute;
+    size: 9px;
+    color: white;
+    animation: rotate 3s linear infinite;
+    position: absolute;
+    bottom: 0;
+    transition: 1s;
+    margin-bottom: 19px;
+}
+
+i:hover {
+    color: violet;
 }
 
 @keyframes rotate {
