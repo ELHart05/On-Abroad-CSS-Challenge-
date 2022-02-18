@@ -72,7 +72,7 @@ p {
     text-align: center;
     color: white;
     position: absolute;
-    margin-bottom: 38px;
+    margin-bottom: 47px;
     font-weight: 500;
 }
 
@@ -84,7 +84,7 @@ i {
     position: absolute;
     bottom: 0;
     transition: 1s;
-    margin-bottom: 19px;
+    margin-bottom: 28px;
 }
 
 i:hover {
