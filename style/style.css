@@ -53,6 +53,7 @@ body {
     width: 872px;
     height: 108px;
     margin-bottom: 100px;
+    margin-left: 320px;
     animation: moving linear 3s infinite;
     overflow: hidden;
 }
@@ -128,5 +129,9 @@ i:hover {
     .container {
         width: 95%;
     }
+
+    .car:hover {
+        margin-left: 250px;
+    }    
 
 }
